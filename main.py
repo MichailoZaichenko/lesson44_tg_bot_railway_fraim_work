@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+import os
 import telebot
 from TOKEN import TOKEN
 
